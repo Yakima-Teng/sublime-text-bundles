@@ -1,0 +1,47 @@
+{
+  "channels": [
+    "/Users/yakima/workspace/sublime-text-bundles/channel_v3.json"
+  ],
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "Agila Theme",
+    "All Autocomplete",
+    "AutoFileName",
+    "Autoprefixer",
+    "Babel",
+    "BracketHighlighter",
+    "Color Highlighter",
+    "ColorPicker",
+    "Colorsublime",
+    "ConvertToUTF8",
+    "CSS Extended Completions",
+    "CSScomb",
+    "DocBlockr",
+    "Emmet",
+    "FlowIDE",
+    "GBK Support",
+    "Handlebars",
+    "JsFormat",
+    "LESS",
+    "MarkdownEditing",
+    "MarkdownPreview",
+    "Minify",
+    "Package Control",
+    "Pug",
+    "react-native-snippets",
+    "Sass",
+    "SideBarEnhancements",
+    "SublimeLinter",
+    "Swift Completion",
+    "TabsExtra",
+    "Terminal",
+    "TrailingSpaces",
+    "TypeScript",
+    "Vue Syntax Highlight",
+    "Vuejs Snippets"
+  ]
+}
